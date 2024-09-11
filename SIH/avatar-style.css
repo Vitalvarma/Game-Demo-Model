@@ -1,0 +1,89 @@
+.black{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}
+.white{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}
+.gray{
+    width: 20px;
+    height: 20px;
+    background-color: gray;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}
+.brown{
+    width: 20px;
+    height: 20px;
+    background-color: brown;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}
+.pink{
+    width: 20px;
+    height: 20px;
+    background-color: pink;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}.green{
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}.yellow{
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}.orange{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    margin-right: 10px;
+}.red{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}
+.blue{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    margin-right: 10px;
+    border: rgba(0, 0, 0, 0.027);
+}
+.hair-color,.skin-color{
+    display: flex;
+    flex-direction: row;
+}
+.main-class{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gender{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.input{
+    height: 20px;
+    width: 120%;
+    border-radius: 10px;
+}
+#submit{
+    border-radius: 20px;
+}
